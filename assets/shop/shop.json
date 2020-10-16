@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Premier Objet",
+        "description": "PlaceHolder description première objet",
+        "prix": 100
+    },
+    {
+        "name": "Deuxieme Objet",
+        "description": "PlaceHolder description deuxième objet",
+        "prix": 150
+    }
+]
